@@ -8,5 +8,4 @@ Skills: -
 
 HTML | CSS | JavaScript | TypeScript | React | MySQL | Wireshark | Cisco Packet | VMware | MongoDB | Docker | Container | GitHub | RESTful API | Express.JS | Node.JS | Tailwind.
 
-- 🔭 I’m currently working on this page.
 - 📫 How to reach me: rajsnehrathod@gmail.com 
